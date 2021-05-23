@@ -9,6 +9,7 @@ In this project data science & analytics skills are used to collect data, explor
 # Project Steps
 
 In the course of the analysis the following steps were taken before and during the analysis; 
+
 1). Gathered data from three different sources; ncdc website, and john hopkins github repoitory and covid_external_data repository
 * Web scrapped the dataframeusing pd.read_html()
 * Dowloaded the files from John Hopkins Data Repository
