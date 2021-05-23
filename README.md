@@ -36,6 +36,7 @@ In the course of the analysis the following steps were taken before and during t
 * Used masking to get date with maximum infection rate
 
 4). External Data
+ 
  a). Covid External Data (Indexes)
 * Basic insights derivation form .info(), .describe() and viewed the complete data
 * Group data by region
