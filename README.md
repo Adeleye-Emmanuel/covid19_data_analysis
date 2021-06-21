@@ -1,4 +1,4 @@
-# DATA ANALYSIS ON  IMAPCET OF COVID-19 PANDEMIC IN NIGERIA
+# DATA ANALYSIS ON  IMAPCT OF COVID-19 PANDEMIC IN NIGERIA
 
 Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus, and it has affected major parts of the world. Nigeria, a West-African country, has also been affected by the COVID-19 pandemic after recording its first case on 27th February 2020.
 
