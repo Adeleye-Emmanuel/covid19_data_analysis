@@ -11,8 +11,8 @@ In this project data science & analytics skills are used to collect data, explor
 In the course of the analysis the following steps were taken before and during the analysis; 
 
 1). Gathered data from three different sources; ncdc website, and john hopkins github repoitory and covid_external_data repository
-* Web scrapped the dataframeusing pd.read_html()
-* Dowloaded the files from John Hopkins Data Repository
+* Web scrapped the dataframe using pd.read_html()
+* Web scrapped the data from the John Hopkins repository
 * Downloaded external data from Covid_external Repository
 
 2). NCDC DATA
@@ -23,7 +23,7 @@ In the course of the analysis the following steps were taken before and during t
 
 3). John Hopkins Data
 * There are three subdivisions of the data; the nuber of confirmed cases, discharged cases and death cases. 
-* Exttracted and combined into a single dataframe
+* Extracted and combined into a single dataframe
 * Basic insights derivation form .info(), .describe() and data.head()
 * Used the pd.melt() function to convert all the confirmed, discharged and death date features into one date feature mapping to the date value
 * Merged the three frames in step two(2)
@@ -48,7 +48,7 @@ In the course of the analysis the following steps were taken before and during t
 
  b). Quarterly GDP Analysis
 * Used the melt function to get the gdp for all the years from 2014-2020 and splitted them into quarters
-* Plotted a bar chart to show GDP for all the years into the quarter subplots
+* Plotted a bar chart to show GDP for all the years
 
  c). Budget Analysis
 * Basic insights derivation form .info(), .describe() and viewed the complete data
@@ -82,6 +82,8 @@ In the course of the analysis the following steps were taken before and during t
 * Population density: Since March 2020, many countries around the world have been experiencing a large outbreak of a novel coronavirus (2019-nCoV). Because there is a higher rate of contact between humans in cities with higher population weighted densities, Covid-19 spreads faster in these areas. 
 *  Urban Mobility Index that assesses the mobility of leading cities and tells us about the infrastructural preparedness of the cities for the future. It provides policymakers and transportation experts with a detailed view of the transportation capability and patterns of the city. In the age of interconnected technological advances in the modes of transportation, mobility will be the lifeline of a city.
 * While disease outbreaks and other acute public health risks are often unpredictable and require a range of responses, the International Health Regulations (2005) (IHR) provide an overarching legal framework that defines countries’ rights and obligations in handling  public health events and emergencies that have the potential to cross borders.
+* From the correlation analysis of population density and confirmed cases areas with high population density index(increased vulnerability as a result of huge population) are reported to have high number of confirmed cases
+* Areas that are largely dominated by the aged who are susceptible to the virus have record for the high number of confirmed cases while areas with the low age index have low number of confirmed cases
 
 
 # Future Work
