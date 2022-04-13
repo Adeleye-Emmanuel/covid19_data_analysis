@@ -58,7 +58,7 @@ In the course of the analysis the following steps were taken before and during t
 * Extracted state state with the minimum percent change
 * Extracted state state with the maximum percent change
 
-# Insights
+# Findings
 
 * The top 10 states with the highest number of confirmed cases are Lagos with	58713 cases, FCT with 19841 cases, Kaduna 9068 cases, Plateau 9060 cases, Rivers 7169 cases, Oyo 6855 cases, Edo 4907 cases, Ogun 4680 cases, Kan 3967 cases,and Ondo 3248 cases.
 * The top 10 states with the highest discharged cases are Lagos with 56990, FCT 19104, Plateau	9002, Kaduna 9000, Rivers 7040, Oyo 6729, Edo 4715, Ogun 4627, Kano	3849, and Kwara	3067
@@ -87,12 +87,12 @@ In the course of the analysis the following steps were taken before and during t
 
 
 # Future Work
-Analysis should be extended to the following:
-* Impact should extend to other economic factors like education 
+Analysis would be extended to impact to other economic sectors like 
+* Education 
 * Petroleum sector
 * Agricultural sector
 * Climatic evaluation
-* Stock market and the net impact on top institutions.
+* Stock market and the net impact on financial institutions.
 
 
 # Standout Section
